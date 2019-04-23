@@ -1,0 +1,106 @@
+.headerMainPage {
+    background-color: #298fff;
+    background-image: url(../images/header-bg.jpg);
+    background-size: cover;
+    padding: 200px 0 130px;
+    width: 100%;
+    color: #ffff;
+    height: calc(100vh - 59px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.highlight-title {
+    color: #e23b4a;
+    background: linear-gradient(to right, #00c0f0 0, #5239cd 85%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 0;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.highlight-title1 {
+    color: #e23b4a;
+    background: linear-gradient(to right, #00c0f0 0, #5239cd 85%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Galano", sans-serif;
+    margin-top: 0;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: unset;
+}
+
+.whycontainer {
+    background-color: #503690;
+}
+
+.highlight-btn {
+    border: 3px solid #00c0f0;
+    border-radius: 50px;
+    color: #344C67;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 35px;
+    padding: 15px 55px;
+    transition: all .3s ease-in-out;
+    position: relative;
+}
+
+.howcontainer {
+    background-color: #298fff
+}
+
+.popcorncontainer {
+    background-color: #503690;
+}
+
+.ourhistory {
+    background-color: #ffffff
+}
+
+.blacktext {
+    color: #000000
+}
+
+.imagecenter {
+    text-align: center; 
+}
+
+.smallimage {
+    image-rendering: auto;
+}
+
+.mapbackground {
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.headerfinale {
+    background-color: #298fff;
+    background-image: url(../images/wearehappy.png);
+    background-size: cover;
+    padding: 200px 0 130px;
+    width: 100%;
+    color: #ffff;
+    height: calc(100vh - 59px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.highlight-image1 {
+    border-radius: 100px;
+    max-width: 100%; }
